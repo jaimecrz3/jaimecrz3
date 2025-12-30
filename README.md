@@ -40,7 +40,7 @@ I enjoy building reproducible solutions to complex problems—combining mathemat
   Relevant coursework: Probability, Statistics, Optimization, Machine Learning, Algorithms, Databases, Numerical Analysis, Mathematical Analysis, Algebra, Geometry, Computer Vision...
 
 ## Contact
-- [LinkedIn](www.linkedin.com/in/jaime-corzo-galdo)
+- LinkedIn: www.linkedin.com/in/jaime-corzo-galdo
 - Email: jcggranada04@gmail.com
 - [CV (PDF)](https://github.com/jaimecrz3/CV/blob/master/JaimeCorzoGaldo_CV_NoPhoto.pdf) 
 
