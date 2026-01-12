@@ -26,7 +26,7 @@ I enjoy building reproducible solutions to complex problems—combining mathemat
 - **[Skin Lesion Classification — Deep Learning Benchmarks](https://github.com/jaimecrz3/skin-lesion-classification-benchmarks)** — Benchmark study for melanoma/nevus/keratosis classification: self-supervised **ViT-DINO** (linear probe + fine-tuning), supervised ViT baselines, and CNN transfer learning (e.g., AlexNet/EfficientNet). Includes training pipelines, metrics, and a written report.  
   _Keywords:_ computer vision, medical imaging, self-supervised learning | _Tech:_ Python, PyTorch, ViT, CNNs | _Collaboration:_ developed with contributors (see repo contributors/PRs).
 
-- **[TDA in Finance — Mapper (Bachelor’s Thesis)](https://github.com/jaimecrz3/tda-finance-mapper)** — Research code and experiments for applying **Topological Data Analysis** to high-dimensional financial data, centered on the **Mapper** algorithm (with optional extensions such as persistent homology / Ball Mapper).  
+- **[TDA in Finance — Mapper (Bachelor’s Thesis)](https://github.com/jaimecrz3/tda-finance-mapper)** — (It is not finished yet) Research code and experiments for applying **Topological Data Analysis** to high-dimensional financial data, centered on the **Mapper** algorithm (with optional extensions such as persistent homology / Ball Mapper).  
   _Keywords:_ TDA, high-dimensional data, financial data analysis | _Tech:_ Python, scientific stack
 
 ## Skills
