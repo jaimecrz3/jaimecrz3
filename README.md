@@ -14,6 +14,9 @@ I enjoy building reproducible solutions to complex problems—combining mathemat
 
 ## Featured projects
 
+- **[TDA Finance Mapper — Topological Data Analysis for Portfolio Construction](https://github.com/jaimecrz3/tda-finance-mapper)** — Python package developed for my final degree project, applying Topological Data Analysis to financial data for market-regime analysis and portfolio construction. The project implements a reproducible pipeline based on Mapper, persistent homology features, causal backtesting, transaction costs, and comparisons against classical benchmarks such as equal-weight portfolios. The package includes a documented API, Sphinx documentation, experiment scripts, and is published on PyPI as [`tda-finance-mapper`](https://pypi.org/project/tda-finance-mapper/).  
+  _Keywords:_ topological data analysis, Mapper, persistent homology, quantitative finance, portfolio construction, backtesting | _Tech:_ Python, pandas, scikit-learn, KeplerMapper, ripser, GUDHI, Sphinx, PyPI
+
 - **[Machine Learning Coursework (Python/Notebooks)](https://github.com/jaimecrz3/applied-machine-learning-coursework)** — End-to-end notebook implementations of core ML paradigms: supervised learning (LogReg, SVM, Random Forest, Ridge), unsupervised learning (KMeans, DBSCAN), association rules (Apriori, FP-Growth), and deep learning in Keras (Fashion-MNIST CNNs, MNIST autoencoders).  
   _Keywords:_ classification, regression, clustering, association rules, deep learning | _Tech:_ Python, Jupyter, scikit-learn, Keras
 
