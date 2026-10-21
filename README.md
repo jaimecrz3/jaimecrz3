@@ -114,7 +114,7 @@ Outside mathematics and finance, I enjoy **chess, football, tennis, photography,
 
 Studying and living in Spain, Italy, and Canada has made me especially interested in meeting people from different backgrounds and learning how they approach problems, careers, and life differently.
 
-I enjoy exchanging ideas — whether about quantitative finance and technology, or about travel, languages, sports, photography, and life outside work.
+I enjoy exchanging ideas, whether about quantitative finance and technology, or about travel, sports, and life outside work.
 
 ---
 
