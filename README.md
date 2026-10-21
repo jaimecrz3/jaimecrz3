@@ -2,7 +2,7 @@
 
 **Master of Mathematical Finance @ University of Toronto**  
 **Incoming Global Analytics & Financial Engineering (GAFE) Intern @ Scotiabank — Global Banking & Markets**  
-**Mathematics + Computer Science**
+**Mathematics + Computer Science @ University of Granada** 
 
 I am interested in quantitative problems at the intersection of **mathematical modelling, financial markets, and computation**.
 
