@@ -91,7 +91,7 @@ Implementations of supervised, unsupervised, and deep-learning methods, includin
 
 ## Additional Work
 
-### [Mathematics & Computer Science Coursework — University of Granada](https://github.com/jaimecrz3/DGIIM)
+### [Mathematics & Computer Science Coursework — University of Granada](https://github.com/jaimecrz3/mathematics-computer-science-coursework)
 
 Selected projects, assignments, and implementations from my five-year double degree in **Mathematics and Computer Science**.
 
