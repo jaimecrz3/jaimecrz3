@@ -1,4 +1,4 @@
-# Jaime Corzo
+# Jaime Corzo Galdó
 
 **Master of Mathematical Finance @ University of Toronto**  
 **Incoming Global Analytics & Financial Engineering (GAFE) Intern @ Scotiabank — Global Banking & Markets**  
