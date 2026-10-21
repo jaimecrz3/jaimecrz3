@@ -135,4 +135,4 @@ University of Salerno
 
 [LinkedIn](https://www.linkedin.com/in/jaime-corzo-galdo) ·
 [Email](mailto:jcggranada04@gmail.com) ·
-[CV](https://github.com/jaimecrz3/CV/blob/master/JaimeCorzoGaldo_CV_NoPhoto.pdf)
+[CV](https://github.com/jaimecrz3/CV/blob/master/CorzoGaldoJaime Resume.pdf)
