@@ -112,9 +112,9 @@ The repository spans algorithms, optimization, numerical analysis, machine learn
 
 Outside mathematics and finance, I enjoy **chess, football, tennis, photography, travelling, and learning languages**.
 
-Studying and living in Spain, Italy, and Canada has also made me enjoy meeting people from different backgrounds and learning how they approach problems differently.
+Studying and living in Spain, Italy, and Canada has made me especially interested in meeting people from different backgrounds and learning how they approach problems, careers, and life differently.
 
-I'm always happy to connect with people working on interesting problems in **quantitative finance, financial markets, mathematics, or technology**.
+I enjoy exchanging ideas — whether about quantitative finance and technology, or about travel, languages, sports, photography, and life outside work.
 
 ---
 
