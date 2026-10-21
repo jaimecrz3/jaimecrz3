@@ -1,61 +1,138 @@
-# Hi, I’m Jaime
+# Jaime Corzo
 
-I’m a **Mathematics + Computer Science** student/graduate focused on **quantitative finance**, **machine learning**, and **software engineering**.  
-I enjoy building reproducible solutions to complex problems—combining mathematical modeling with practical engineering.
+**Master of Mathematical Finance @ University of Toronto**  
+**Incoming Global Analytics & Financial Engineering (GAFE) Intern @ Scotiabank — Global Banking & Markets**  
+**Mathematics + Computer Science**
 
-## What I’m looking for
-- **Internship / Junior roles** in **Quantitative Finance (Quant Research / Trading / Risk / Portfolio)**, or **Software / ML Engineering**
-- **Master’s programs** in **Quantitative Finance / Financial Engineering**, ideally with a strong **ML** component
+I am interested in quantitative problems at the intersection of **mathematical modelling, financial markets, and computation**.
 
-## About me
-- Strong foundation in **probability, statistics, optimization, linear algebra, and numerical methods**
-- Comfortable turning ideas into working systems: **clean code, experimentation, evaluation, documentation**
-- Interested in: **systematic strategies, time series modeling, market microstructure, risk modeling, ML for finance**
+My background combines mathematics and computer science, with experience in quantitative research, numerical methods, optimization, machine learning, and software development. I am currently completing the **Master of Mathematical Finance (MMF) at the University of Toronto**, where I am developing this foundation further in derivatives, pricing, stochastic modelling, risk, data science, and computational finance.
 
-## Featured projects
+Before moving to Toronto, I completed a five-year double degree in **Mathematics and Computer Science at the University of Granada**, including an Erasmus academic year at the **University of Salerno** in Italy.
 
-- **[TDA Finance Mapper — Topological Data Analysis for Portfolio Construction](https://github.com/jaimecrz3/tda-finance-mapper)** — Python package developed for my final degree project, applying Topological Data Analysis to financial data for market-regime analysis and portfolio construction. The project implements a reproducible pipeline based on Mapper, persistent homology features, causal backtesting, transaction costs, and comparisons against classical benchmarks such as equal-weight portfolios. The package includes a documented API, Sphinx documentation, experiment scripts, and is published on PyPI as [`tda-finance-mapper`](https://pypi.org/project/tda-finance-mapper/).  
-  _Keywords:_ topological data analysis, Mapper, persistent homology, quantitative finance, portfolio construction, backtesting | _Tech:_ Python, pandas, scikit-learn, KeplerMapper, ripser, GUDHI, Sphinx, PyPI
+In Winter 2027, I will join **Scotiabank Global Banking & Markets** as a **Global Analytics & Financial Engineering (GAFE) Intern**.
 
-- **[Machine Learning Coursework (Python/Notebooks)](https://github.com/jaimecrz3/applied-machine-learning-coursework)** — End-to-end notebook implementations of core ML paradigms: supervised learning (LogReg, SVM, Random Forest, Ridge), unsupervised learning (KMeans, DBSCAN), association rules (Apriori, FP-Growth), and deep learning in Keras (Fashion-MNIST CNNs, MNIST autoencoders).  
-  _Keywords:_ classification, regression, clustering, association rules, deep learning | _Tech:_ Python, Jupyter, scikit-learn, Keras
+---
 
-- **[DGIIM — Coursework Index (UGR)](https://github.com/jaimecrz3/DGIIM)** — Curated and structured archive of projects, assignments, and labs from the Double Degree in **Computer Engineering + Mathematics** (University of Granada). Organized by academic year/track for fast navigation.  
-  _Keywords:_ coursework, algorithms, systems, applied math | _Tech:_ multi-language (Python/C++/Java, etc.), Git
+## What I'm Working On
 
-- **[Minimum Differential Dispersion Problem (MDDP) — Metaheuristics in C++](https://github.com/jaimecrz3/mddp-metaheuristics)** — Solves the NP-complete MDDP using trajectory-based metaheuristics (BMB, ILS, Simulated Annealing, ILS+SA, GRASP ± LS), including MDPLIB instances, CMake build, and experimental evaluation.  
-  _Keywords:_ metaheuristics, combinatorial optimization, local search | _Tech:_ C++, CMake
+My current work and studies are centered around:
 
-- **[Skin Lesion Classification — Deep Learning Benchmarks](https://github.com/jaimecrz3/skin-lesion-classification-benchmarks)** — Benchmark study for melanoma/nevus/keratosis classification: We present a comprehensive comparative study between Convolutional Neural Network models (EfficientNetB4, Inception-ResNet-v2) and Transformer-based architectures (ViT, ViT+DINO) using the ISIC 2017 dataset. Includes training pipelines, metrics, and a written report.  
-  _Keywords:_ computer vision, medical imaging, self-supervised learning | _Tech:_ Python, PyTorch, ViT, CNNs | _Collaboration:_ developed with contributors (see repo contributors/PRs).
+- **Derivatives & Financial Engineering** — pricing theory, stochastic models, Monte Carlo, and numerical methods
+- **Quantitative Research** — systematic strategies, portfolio research, financial data, and empirical analysis
+- **Quantitative Development** — Python and C++ for modelling, simulation, and research infrastructure
+- **Machine Learning for Finance** — statistical learning, time series, and data-driven financial modelling
+- **Risk & Model Analytics** — market risk, sensitivities, model validation, and quantitative risk
 
-## Skills
-- **Programming:** Python, C++, Java, Git
-- **Data/ML:** NumPy, pandas, scikit-learn, PyTorch, fastai
-- **Quant/Math:** probability & statistics, optimization, time series, numerical methods
-- **Engineering:** Linux, Docker, testing, CI, SQL, APIs
+Current MMF coursework includes **Pricing Theory, Numerical Methods for Finance, Risk Management, Machine Learning for Finance, Data Science, Dynamic Data Science, and Information Technology**.
+
+---
+
+# Selected Projects
+
+## [TDA Finance Mapper](https://github.com/jaimecrz3/tda-finance-mapper)
+### Topological Data Analysis for Financial Markets
+
+Research and Python package developed as my final degree project, exploring the use of **Topological Data Analysis (TDA)** in financial market data.
+
+The project implements a reproducible research pipeline using Mapper and persistent-homology features, together with causal backtesting, transaction costs, and comparisons against classical portfolio benchmarks.
+
+The package includes a documented API, experiment pipelines, Sphinx documentation, and a public PyPI release.
+
+**Topics:** quantitative finance · topological data analysis · portfolio research · backtesting  
+**Tech:** Python · pandas · scikit-learn · KeplerMapper · ripser · GUDHI · Sphinx · PyPI
+
+---
+
+## [University of Toronto — Master of Mathematical Finance](https://github.com/jaimecrz3/uoft-mmf)
+### MMF Coursework, Numerical Implementations & Projects
+
+Central repository for selected work completed throughout the **Master of Mathematical Finance at the University of Toronto**.
+
+It currently includes coursework and implementations across pricing theory, numerical finance, risk management, data science, and machine learning for finance. Larger projects developed during the program will be maintained in separate repositories and linked from the relevant course directories.
+
+**Topics:** derivatives · mathematical finance · stochastic processes · numerical methods · risk · machine learning  
+**Tech:** Python · R · numerical computing
+
+---
+
+## [Minimum Differential Dispersion Problem](https://github.com/jaimecrz3/mddp-metaheuristics)
+### Metaheuristics & Combinatorial Optimization in C++
+
+Implementation and experimental evaluation of trajectory-based metaheuristics for the NP-complete Minimum Differential Dispersion Problem.
+
+Includes Multi-Start Local Search, Iterated Local Search, Simulated Annealing, GRASP, and hybrid approaches evaluated on benchmark instances.
+
+**Topics:** combinatorial optimization · metaheuristics · numerical experimentation  
+**Tech:** C++ · CMake
+
+---
+
+## [Skin Lesion Classification](https://github.com/jaimecrz3/skin-lesion-classification-benchmarks)
+### Deep Learning Benchmark Study
+
+Comparative study of convolutional and Transformer-based architectures for skin-lesion classification using the ISIC 2017 dataset.
+
+The project compares EfficientNetB4, Inception-ResNet-v2, ViT, and ViT+DINO, including training pipelines, evaluation metrics, and a written report.
+
+**Topics:** computer vision · deep learning · self-supervised learning  
+**Tech:** Python · PyTorch · CNNs · Vision Transformers
+
+---
+
+## [Applied Machine Learning Coursework](https://github.com/jaimecrz3/applied-machine-learning-coursework)
+
+Implementations of supervised, unsupervised, and deep-learning methods, including logistic regression, SVMs, random forests, clustering, association rules, CNNs, and autoencoders.
+
+**Topics:** machine learning · classification · regression · clustering · deep learning  
+**Tech:** Python · Jupyter · scikit-learn · Keras
+
+---
+
+## Additional Work
+
+### [Mathematics & Computer Science Coursework — University of Granada](https://github.com/jaimecrz3/DGIIM)
+
+Selected projects, assignments, and implementations from my five-year double degree in **Mathematics and Computer Science**.
+
+The repository spans algorithms, optimization, numerical analysis, machine learning, artificial intelligence, databases, systems, and applied mathematics.
+
+---
+
+## Technical Toolkit
+
+**Programming:** Python · C++ · SQL · Java  
+**Scientific Computing:** NumPy · pandas · SciPy · scikit-learn · PyTorch  
+**Quantitative Methods:** Probability · Statistics · Optimization · Numerical Methods · Time Series · Portfolio Backtesting  
+**Tools:** Git · Linux · Docker · CMake · Testing · Excel · Power BI
+
+---
+
+## Beyond Quant
+
+Outside mathematics and finance, I enjoy **chess, football, tennis, photography, travelling, and learning languages**.
+
+Studying and living in Spain, Italy, and Canada has also made me enjoy meeting people from different backgrounds and learning how they approach problems differently.
+
+I'm always happy to connect with people working on interesting problems in **quantitative finance, financial markets, mathematics, or technology**.
+
+---
 
 ## Education
-- **Mathematics and Computer Science**, University of Granada (Year 5 out of 5)  
-  Relevant coursework: Probability, Statistics, Optimization, Machine Learning, Algorithms, Databases, Numerical Analysis, Mathematical Analysis, Algebra, Geometry, Computer Vision...
+
+**Master of Mathematical Finance**  
+University of Toronto
+
+**Double Degree in Mathematics and Computer Science**  
+University of Granada
+
+**Erasmus+ Academic Exchange**  
+University of Salerno
+
+---
 
 ## Contact
-- LinkedIn: www.linkedin.com/in/jaime-corzo-galdo
-- Email: jcggranada04@gmail.com
-- [CV (PDF)](https://github.com/jaimecrz3/CV/blob/master/JaimeCorzoGaldo_CV_NoPhoto.pdf) 
 
-
-<!--
-**jaimecrz3/jaimecrz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/jaime-corzo-galdo) ·
+[Email](mailto:jcggranada04@gmail.com) ·
+[CV](https://github.com/jaimecrz3/CV/blob/master/JaimeCorzoGaldo_CV_NoPhoto.pdf)
