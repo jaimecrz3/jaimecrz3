@@ -6,11 +6,13 @@
 
 I am interested in quantitative problems at the intersection of **mathematical modelling, financial markets, and computation**.
 
-My background combines mathematics and computer science, with experience in quantitative research, numerical methods, optimization, machine learning, and software development. I am currently completing the **Master of Mathematical Finance (MMF) at the University of Toronto**, where I am developing this foundation further in derivatives, pricing, stochastic modelling, risk, data science, and computational finance.
+My background combines mathematics and computer science, with experience in quantitative research, numerical methods, optimization, machine learning, and software development. I am currently completing the **Master of Mathematical Finance (MMF) at the University of Toronto**, where I am developing this foundation further in derivatives, stochastic modelling, numerical finance, risk, machine learning, and quantitative research.
+
+Across the MMF, my curriculum spans **Pricing Theory, Probability & Stochastic Analysis, Numerical Methods for Finance, Machine Learning for Finance, Risk Management, Operations Research, Financial Modelling, Asset Management, and trading-focused coursework**. I plan to complete the **Financial Technologies (FinTech) emphasis**, with electives in Large Language Models in Finance, Blockchain Fundamentals, and Financial Technology.
 
 Before moving to Toronto, I completed a five-year double degree in **Mathematics and Computer Science at the University of Granada**, including an Erasmus academic year at the **University of Salerno** in Italy.
 
-In Winter 2027, I will join **Scotiabank Global Banking & Markets** as a **Global Analytics & Financial Engineering (GAFE) Intern**.
+In Winter 2027, I will join **Scotiabank Global Banking & Markets** as a **Global Analytics & Financial Engineering (GAFE) Intern within the Equity Derivatives team**.
 
 ---
 
@@ -18,13 +20,11 @@ In Winter 2027, I will join **Scotiabank Global Banking & Markets** as a **Globa
 
 My current work and studies are centered around:
 
-- **Derivatives & Financial Engineering** — pricing theory, stochastic models, Monte Carlo, and numerical methods
+- **Derivatives & Financial Engineering** — equity derivatives, pricing theory, stochastic models, Monte Carlo, hedging, and numerical methods
 - **Quantitative Research** — systematic strategies, portfolio research, financial data, and empirical analysis
 - **Quantitative Development** — Python and C++ for modelling, simulation, and research infrastructure
-- **Machine Learning for Finance** — statistical learning, time series, and data-driven financial modelling
+- **Machine Learning for Finance** — statistical learning, time series, financial data, and emerging applications of LLMs
 - **Risk & Model Analytics** — market risk, sensitivities, model validation, and quantitative risk
-
-Current MMF coursework includes **Pricing Theory, Numerical Methods for Finance, Risk Management, Machine Learning for Finance, Data Science, Dynamic Data Science, and Information Technology**.
 
 ---
 
